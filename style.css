@@ -1,6 +1,8 @@
 body {
   margin: 0;
   font-family: Helvetica, sans-serif;
+  background: lightgrey;
+  color: white;
 }
 
 h1 {
