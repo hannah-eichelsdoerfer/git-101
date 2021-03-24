@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+}
+
+#girlbossQuote {
+  height: 400px;
+  border-radius: 50%;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
